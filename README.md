@@ -2,9 +2,9 @@
 A full-stack web application designed to facilitate seamless and secure interactions between patients and doctors. It offers real-time video consultations, smart appointment scheduling, and digital health record management — all within a responsive, modern UI.
 
 Tech Stack
-Frontend: Next.js 15, React.js, Tailwind CSS
-Backend: Node.js, PostgreSQL (via Neon), Prisma
-Auth & Video: Clerk (authentication), Vonage API (video calls)
+-> Frontend: Next.js 15, React.js, Tailwind CSS
+-> Backend: Node.js, PostgreSQL (via Neon), Prisma
+-> Auth & Video: Clerk (authentication), Vonage API (video calls)
 
 Features
 1) Role-based login system for patients and doctors using Clerk
